@@ -1,0 +1,16 @@
+.ntcool{
+    background-color: lightpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.cool{
+    font-size: 24px;
+}
+#oneid{
+    color: blue;
+    font-size: 36px;
+}
+#otherid{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
